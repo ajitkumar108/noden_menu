@@ -1,6 +1,6 @@
 const mongoose=require("mongoose");
 // const mongoURL= 'mongodb://0.0.0.0:27017/hotels'
-const mongoURL='mongodb://localhost:27017/'
+// const mongoURL='mongodb://localhost:27017/'
 mongoose.connect(mongoURL,
     {
         // useNewUrlParser :true,
